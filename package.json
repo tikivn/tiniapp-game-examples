@@ -1,0 +1,16 @@
+{
+  "name": "abi-game-demo",
+  "version": "1.0.3",
+  "tiki": {
+    "appIdentifier": "vn.tiki.abigames.hex",
+    "buildNumber": 1
+  },
+  "scripts": {
+    "watch:wp": "webpack watch --config webpack.config.js"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
