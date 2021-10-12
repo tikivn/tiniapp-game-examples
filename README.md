@@ -4,7 +4,7 @@ A sample mini game on Tiki is developed using Tini App.
 
 ### To get started with the repo
 
-First, ensure you have the [latest `Tini App Studio`](https://developers.tiki.vn/).
+First, ensure you have the [latest `Tini App Studio`](https://tiniapp-media.tikicdn.com/tini-studio/prod/1.14.128/macosx/Tini App Studio-v1.14.128.dmg).
 
 ```sh
 $ git clone git@github.com:tikivn/tiniapp-game-examples.git
